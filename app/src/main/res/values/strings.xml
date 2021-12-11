@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopFootball</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_cancel_button">Cancel</string>
+    <string name="login_error_message">password must have 6 characters</string>
+    <string name="color_mode_title">Search</string>
+    <string name="filter_title">Title</string>
+    <string name="football_title">Title</string>
+    <string name="football_description">hi, this is a new product.</string>
+</resources>
